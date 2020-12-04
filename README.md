@@ -1,2 +1,2 @@
-# UUI-projekt
-repozitorij za moj UUI projekt
+# strojno...
+repozitorij za strojno
